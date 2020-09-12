@@ -9,7 +9,7 @@ https://www.kaggle.com/crawford/20-newsgroups
 Naive Bayes is a classification technique based on Bayes’ Theorem with an assumption of independence among predictors.A Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 
 
-Formula = P(A|B) = P(B|A)*P(A)/ P(B).
+Formula = P(A|B) = P(B|A) * P(A) / P(B).
 
 
 Here , P(A)= probability of class/category.
